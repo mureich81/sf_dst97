@@ -1,7 +1,7 @@
 # Проект 0. Анализ вакансий на hh.ru
 Анализ и описание данных из [датасета](https://drive.google.com/drive/folders/1aFKLSPxRmW-5j5zfPCiGA3NZ-xRPmfs5?usp=sharing) от hh.ru
 
-Результаты анализа доступны для просмотра из [ноутбука]()
+Результаты анализа доступны для просмотра из [ноутбука](https://nbviewer.jupyter.org/github.com/mureich81/sf_dst97/blob/main/SF_PROJECT_1/%D0%9D%D0%BE%D1%83%D1%82%D0%B1%D1%83%D0%BA-%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD_Project_1.ipynb)
 
 
 ## Оглавление  
@@ -19,6 +19,8 @@
 3. Разведывательный анализ
 4. Очистка данных 
 
+Для анализа использовали Python
+Для визуализации Seaborn & Plotly
 :arrow_up:[к оглавлению](_)
 
 
