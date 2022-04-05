@@ -1,7 +1,7 @@
 # Проект 0. Анализ вакансий на hh.ru
 Анализ и описание данных из [датасета](https://drive.google.com/drive/folders/1aFKLSPxRmW-5j5zfPCiGA3NZ-xRPmfs5?usp=sharing) от hh.ru
 
-Результаты анализа доступны для просмотра из [ноутбука](https://nbviewer.jupyter.org/github/mureich81/sf_dst97/blob/main/SF_PROJECT_1/Project_1_HHru.ipynb)
+Результаты анализа доступны для просмотра из [ноутбука](https://nbviewer.jupyter.org/github/mureich81/sf_dst97/commit/4e6507f6db3552ecf640d4fe3a89dc9803396760)
 
 
 ## Оглавление  
